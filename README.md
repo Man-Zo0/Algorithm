@@ -1,2 +1,2 @@
-# codes
-any codes
+# Algorithm
+Algorithms solved 
